@@ -1,1 +1,1 @@
-my first readme
+ first directory in reporitory
